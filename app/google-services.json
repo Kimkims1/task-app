@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122848565998",
+    "firebase_url": "https://task-management-app-45c78.firebaseio.com",
+    "project_id": "task-management-app-45c78",
+    "storage_bucket": "task-management-app-45c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122848565998:android:92a4970e7a6750f3ce31ff",
+        "android_client_info": {
+          "package_name": "com.carldroid.taskmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122848565998-b6uteecvsnedv6kcm8255p0nrmcp86kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carldroid.taskmanagementapp",
+            "certificate_hash": "cb0394342752e9057bf6beabf12fe7238b2e6817"
+          }
+        },
+        {
+          "client_id": "122848565998-pnu4fmabfideu3i95e68m7jab3it9tun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjDA-JNyjo9JG9uVx2pZLoGsRM1if-LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122848565998-pnu4fmabfideu3i95e68m7jab3it9tun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
